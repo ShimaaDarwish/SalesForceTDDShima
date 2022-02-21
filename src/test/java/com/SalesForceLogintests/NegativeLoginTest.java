@@ -45,8 +45,5 @@ public class NegativeLoginTest extends BasePage{
 	@AfterTest
 	public void teardownTest() {
 		closeDriver();	
-		
 	}
-
-	
 }
